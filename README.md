@@ -1,0 +1,2 @@
+# michaelzargl.is
+blog
