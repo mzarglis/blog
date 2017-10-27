@@ -1,14 +1,13 @@
 /* TEAM */
-Developer & Designer: Josh Gerdes
-Twitter: @joshgerdes
-Site: http://joshgerdes.com
-Location: Minneapolis, MN, USA
+Developer & Designer: Michael Zarglis
+Site: https://michaelzargl.is
+Location: Toronto, ON, Canada
 						
 /* THANKS */
-Name: Dale Anthony
+Name: Mom & Dad
 
 /* SITE */
-Last update: 2016/02/10
+Last update: 2017/10/26
 Standards: HTML5, CSS3
 Components: Jekyll
 Software: Sublime Text, Photoshop

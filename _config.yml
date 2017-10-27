@@ -1,18 +1,19 @@
+encoding: utf-8
+
 # Site settings
 title: Michael Zarglis
-description: 'Aspiring Network Engineer. Passionate About all things TCP/IP, DevOps and Bitcoin'
-url: 'http://michaelzargl.is'
-# Baseurl: '/
+description: 'Aspiring Network Security Engineer. Passionate About all things TCP/IP, DevOps and Cryptocurrencies. Sometimes i dabble with Python and Go'
+url: 'https://michaelzargl.is'
+#baseurl: '/'
 google_analytics: 'UA-106593367-1'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'mzarglis'
 
 author:
   name: 'Michael Zarglis'
   email: me@michaelzargl.is
-  #twitter_username: joshgerdes
-  #facebook_username: joshgerdes
   github_username:  mzarglis
   linkedin_username:  mzarglis
+  stackoverflow_username: mzarglis
 
 defaults:
   -
@@ -41,4 +42,3 @@ kramdown:
 
 plugins: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
-encoding: utf-8
