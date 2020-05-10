@@ -2,10 +2,10 @@ encoding: utf-8
 
 # Site settings
 title: Michael Zarglis
-description: 'Aspiring Network Security Engineer. Passionate about all things TCP/IP, DevOps and Crypto Currency related. Sometimes i dabble with Python and Go'
+description: 'Cloud Infrastructure Consultant. Cloud + DevOps + Containers = 😃'
 url: 'https://michaelzargl.is'
 #baseurl: '/'
-google_analytics: 'UA-106593367-1'
+#google_analytics: 'UA-106593367-1'
 disqus_shortname: 'michaelzargl-is'
 
 author:
