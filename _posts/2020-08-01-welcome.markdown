@@ -1,0 +1,10 @@
+---
+title:  "Welcome to my blog!"
+date:   2020-08-01 15:04:23
+categories: [welcome]
+tags: [welcome]
+---
+Welcome to my blog! This blog will serve as a technical compendium of sorts to document personal projects i have been working on. As well as other technical tidbits that i think other people might find useful.
+
+Check back soon!
+
