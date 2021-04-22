@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/mzarglis/mzarglis.github.io.svg?branch=release)](https://travis-ci.org/mzarglis/mzarglis.github.io)
 # Branch notes
-Master = compiled website  
-Devel  = testing branch  
-release = ci/cd enabled  
+gh-pages = Deployed Site  
+develop  = Dev branch  
+release  = ci/cd enabled pushes to gh-pages 
 
 
 
