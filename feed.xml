@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Zarglis</title>
+    <description>Cloud Infrastructure Consultant. Passionate about Cloud Native Tech. Cloud + DevOps + Containers = 😃</description>
+    <link>https://michaelzargl.is/</link>
+    <atom:link href="https://michaelzargl.is/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 27 Apr 2021 19:13:35 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Apr 2021 19:13:35 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Welcome to my blog!</title>
+        <description>&lt;p&gt;Welcome to my blog! This blog will serve as a technical compendium of sorts, to document personal projects i have been working on. As well as other technical tidbits that i think others might find helpful.&lt;/p&gt;
+
+&lt;p&gt;Check back soon!&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 Aug 2020 15:04:23 +0000</pubDate>
+        <link>https://michaelzargl.is/2020/welcome/</link>
+        <guid isPermaLink="true">https://michaelzargl.is/2020/welcome/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+  </channel>
+</rss>

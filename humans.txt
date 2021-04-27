@@ -1,0 +1,13 @@
+/* TEAM */
+Developer & Designer: Michael Zarglis
+Site: https://michaelzargl.is
+Location: Toronto, ON, Canada
+						
+/* THANKS */
+Name: Mom & Dad
+
+/* SITE */
+Last update: 2017/10/26
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: Sublime Text, Photoshop
